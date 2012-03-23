@@ -1,0 +1,10 @@
+C:\Users\Mezie\AppData\Local\Temporary Projects\Library\bin\Release\Library.exe
+C:\Users\Mezie\AppData\Local\Temporary Projects\Library\bin\Release\Library.pdb
+C:\Users\Mezie\AppData\Local\Temporary Projects\Library\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Mezie\AppData\Local\Temporary Projects\Library\obj\x86\Release\Library.exe
+C:\Users\Mezie\AppData\Local\Temporary Projects\Library\obj\x86\Release\Library.pdb
+C:\Users\Mezie\Documents\Visual Studio 2010\Projects\Library\Library\obj\x86\Release\Library.exe
+C:\Users\Mezie\Documents\Visual Studio 2010\Projects\Library\Library\obj\x86\Release\Library.pdb
+C:\Users\Mezie\Documents\Visual Studio 2010\Projects\Library\Library\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Mezie\Documents\Visual Studio 2010\Projects\Library\Library\bin\Release\Library.exe
+C:\Users\Mezie\Documents\Visual Studio 2010\Projects\Library\Library\bin\Release\Library.pdb
